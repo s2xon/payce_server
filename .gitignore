@@ -1,0 +1,33 @@
+# Ignore environment files
+.env
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Compiled Go binaries
+/build/
+/bin/
+/*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Dependency directories (just in case)
+vendor/
+
+# Node-related (if you ever add a frontend)
+node_modules/
+.env
+.env
